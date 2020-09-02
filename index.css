@@ -1,6 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Roboto+Mono:wght@300&display=swap" rel="stylesheet")
+
 *{
     box-sizing:border-box;
     padding:0;
     margin:0;
     max-width:100%;
     border:1px solid grey;}
+
+    header{
+        display:inline-block;
+        width:50%;
+        height:50%;
+    }
+
+    .button1{
+background-color: #FF764E;
+padding: 3% 3%;
+display:inline-block;
+width:30%;
+border-radius:5px;
+margin:0 20%;
+    }
+
+    .button2{
+        background-color: #5ED3EB;
+        padding: 3% 3%;
+        margin: 0 0%;
+        display:inline-block;
+        width:30%;
+    }
+
+    .button3{
+        background-color: #FFCD69;
+        padding: 3% 3%;
+        margin: 0 0%;
+        display:inline-block;
+        width:30%;
+    }
+
+    .mountain{
+        widows: 15%;
+        height:15%;
+    }
+.header p{
+    text-align:center;
+    font-family: 'Roboto Mono', monospace;
+}
